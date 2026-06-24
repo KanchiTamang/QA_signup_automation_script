@@ -118,12 +118,7 @@ npx playwright test "QA Task/Signup_Automation.spec.js" --headed
 - File uploads: place `document.jpg` (or another supported file) in `QA Task/`.
 - If the app closes the page after submit, the test safely skips the post-submit wait.
 
-If you want, I can:
-- shorten or expand the README further
-- create a single zip with the important files
-- help push this to a public GitHub repo
 
-Tell me which of those you'd like next.
 ## 📝 Test Variations
 
 
