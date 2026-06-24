@@ -30,8 +30,7 @@ Before running the test, make sure you have:
 ## Installation
 
 Install Playwright:
-npm install
-npx playwright install@latest
+npm init playwright@latest
 
 
 ## Run the Test
@@ -81,7 +80,6 @@ https://authorized-partner.vercel.app/register
 * `README.md` – Project documentation
 * `document.jpg` – Sample upload file
 * `test_report.pdf` – Test execution report
-* `demo_video.mp4` – Demonstration video
 
 ---
 
